@@ -25,7 +25,7 @@ SECRET_KEY = '=*u#px1c#%7^8++gfl2wg*f$xq*imdj$%c!kp2lu)@^qr(j6&1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ' . pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'drosme.pythonanywhere.com']
 
 
 
